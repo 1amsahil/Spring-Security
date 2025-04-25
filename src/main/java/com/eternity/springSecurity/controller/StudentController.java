@@ -15,7 +15,7 @@ import java.util.List;
 public class StudentController {
 
     List<Student> students = new ArrayList<>(List.of(
-            new Student(1,"sahil","java"),
+            new Student(1,"Sahil","java"),
             new Student(2,"Eternity","React"),
             new Student(3,"Jack","JS")
     ));
